@@ -13,7 +13,7 @@
 		<jsp-api.version>2.3.3</jsp-api.version>
 		<springframework.version>5.2.7.RELEASE</springframework.version>
 		<mysql.version>8.0.20</mysql.version>
-		<mybatis.version>3.5.5</mybatis.version>
+		<mybatis.version>3.5.6</mybatis.version>
 		<mybatis-spring.version>2.0.5</mybatis-spring.version>
 	</properties>
 
